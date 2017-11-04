@@ -2,14 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75262d28-1843-4eed-afd5-99b9770f463e" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/db/WiredTiger" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/db/WiredTiger.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/db/WiredTiger.turtle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/db/WiredTiger.wt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/db/WiredTigerLAS.wt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/db/_mdb_catalog.wt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/db/collection-0--6572226201418799892.wt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/db/collection-2--6572226201418799892.wt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/db/diagnostic.data/metrics.2017-11-04T02-28-21Z-00000" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/data/db/diagnostic.data/metrics.interim" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/db/WiredTiger.wt" afterPath="$PROJECT_DIR$/data/db/WiredTiger.wt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/db/diagnostic.data/metrics.2017-11-04T02-28-21Z-00000" afterPath="$PROJECT_DIR$/data/db/diagnostic.data/metrics.2017-11-04T02-28-21Z-00000" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/db/journal/WiredTigerLog.0000000001" afterPath="$PROJECT_DIR$/data/db/journal/WiredTigerLog.0000000001" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/db/mongod.lock" afterPath="$PROJECT_DIR$/data/db/mongod.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/db/sizeStorer.wt" afterPath="$PROJECT_DIR$/data/db/sizeStorer.wt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/db/index-1--6572226201418799892.wt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/db/index-3--6572226201418799892.wt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/db/index-4--6572226201418799892.wt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/db/journal/WiredTigerLog.0000000001" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/db/journal/WiredTigerPreplog.0000000001" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/db/journal/WiredTigerPreplog.0000000002" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/db/mongod.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/db/sizeStorer.wt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/db/storage.bson" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/db/WiredTiger.turtle" afterPath="$PROJECT_DIR$/data/db/WiredTiger.turtle" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -257,12 +269,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1509762234488</updated>
-      <workItem from="1509762235843" duration="1450000" />
+      <workItem from="1509762235843" duration="1497000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1450000" />
+    <option name="totallyTimeSpent" value="1497000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1922" height="1092" extended-state="6" />
