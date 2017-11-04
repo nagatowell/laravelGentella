@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75262d28-1843-4eed-afd5-99b9770f463e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/db/diagnostic.data/metrics.interim" afterPath="$PROJECT_DIR$/data/db/diagnostic.data/metrics.interim" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/db/diagnostic.data/metrics.interim" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/db/WiredTiger.wt" afterPath="$PROJECT_DIR$/data/db/WiredTiger.wt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/db/diagnostic.data/metrics.2017-11-04T02-28-21Z-00000" afterPath="$PROJECT_DIR$/data/db/diagnostic.data/metrics.2017-11-04T02-28-21Z-00000" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/db/journal/WiredTigerLog.0000000001" afterPath="$PROJECT_DIR$/data/db/journal/WiredTigerLog.0000000001" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/db/mongod.lock" afterPath="$PROJECT_DIR$/data/db/mongod.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/db/sizeStorer.wt" afterPath="$PROJECT_DIR$/data/db/sizeStorer.wt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/db/WiredTiger.turtle" afterPath="$PROJECT_DIR$/data/db/WiredTiger.turtle" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -57,8 +63,8 @@
       <file leaf-file-name="home.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/curso/resources/views/home.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1962">
-              <caret line="109" column="0" lean-forward="true" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
+            <state relative-caret-position="432">
+              <caret line="24" column="26" lean-forward="false" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -109,6 +115,7 @@
         <option value="$PROJECT_DIR$/curso/routes/web.php" />
         <option value="$PROJECT_DIR$/curso/resources/views/layouts/sidebar.blade.php" />
         <option value="$PROJECT_DIR$/curso/resources/views/layouts/app.blade.php" />
+        <option value="$PROJECT_DIR$/curso/resources/views/home.blade.php" />
       </list>
     </option>
   </component>
@@ -250,12 +257,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1509762234488</updated>
-      <workItem from="1509762235843" duration="1360000" />
+      <workItem from="1509762235843" duration="1450000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1360000" />
+    <option name="totallyTimeSpent" value="1450000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1922" height="1092" extended-state="6" />
@@ -365,8 +372,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/curso/resources/views/home.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1962">
-          <caret line="109" column="0" lean-forward="true" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
+        <state relative-caret-position="432">
+          <caret line="24" column="26" lean-forward="false" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
           <folding />
         </state>
       </provider>
