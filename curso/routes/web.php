@@ -22,4 +22,8 @@ Route::get('/users', 'UsuariosController@index');
 Route::get('/users/create', 'UsuariosController@criarUsuario');
 Route::post('/users/create', 'UsuariosController@criaUsuario');
 
+Route::get('/users/update/{id}', 'UsuariosController@atualizarUsuario');
+Route::post('/users/update', 'UsuariosController@atualizaUsuario');
+
+Route::get('/users/delete/{id}', 'UsuariosController@deletarUsuario');
 

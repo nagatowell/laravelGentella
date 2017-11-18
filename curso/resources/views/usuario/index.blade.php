@@ -4,7 +4,7 @@
 <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="x_panel">
                   <div class="x_title">
-                    <h2>Basic Tables <small>basic table subtitle</small></h2>
+                    <h2>Usuários</h2>
                     <ul class="nav navbar-right panel_toolbox">
                       <li><a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
                       </li>
@@ -30,6 +30,8 @@
                           <th>ID</th>
                           <th>Nome</th>
                           <th>Email</th>
+                          <th>Editar</th>
+                          <th>Deletar</th>
                         </tr>
                       </thead>
                       <tbody>
@@ -38,6 +40,8 @@
                           <td>{{$usuario->id}}</td>
                           <td>{{$usuario->name}}</td>
                           <td>{{$usuario->email}}</td>
+                          <td><a href="/users/update/{{$usuario->id}}">Editar</a></td>
+                          <td><a href="/users/delete/{{$usuario->id}}">Deletar</a></td>
                         </tr>
                         @endforeach
                       </tbody>
