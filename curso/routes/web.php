@@ -27,3 +27,5 @@ Route::post('/users/update', 'UsuariosController@atualizaUsuario');
 
 Route::get('/users/delete/{id}', 'UsuariosController@deletarUsuario');
 
+
+Route::get('/produtos/', 'HomeController@indexProduto');
