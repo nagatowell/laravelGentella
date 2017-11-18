@@ -1,6 +1,6 @@
-<li><a><i class="fa fa-user"></i> Users <span class="fa fa-chevron-down"></span></a>
+<li><a><i class="fa fa-user"></i> Usuarios <span class="fa fa-chevron-down"></span></a>
     <ul class="nav child_menu">
-        <li><a href="/users">List Users</a></li>
-        <li><a href="/users/create">Create User</a></li>
+        <li><a href="/users">Listar Ativo</a></li>
+        <li><a href="/users/create">Criar Ativo</a></li>
     </ul>
 </li>
