@@ -1,5 +1,7 @@
 <?php
 
+namespace App\Helper;
+
 class WebRequest{
     public static function postData($url, $data){        
         $curl = curl_init();
