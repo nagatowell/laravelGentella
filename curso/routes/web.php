@@ -27,5 +27,15 @@ Route::post('/users/update', 'UsuariosController@atualizaUsuario');
 
 Route::get('/users/delete/{id}', 'UsuariosController@deletarUsuario');
 
+Route::get('/produto', 'ProdutoController@listarProduto');
+Route::get('/produto/criar', 'ProdutoController@criarProduto');
+Route::get('/produto/update/{id}', 'ProdutoController@atualizarProduto');
+Route::get('/produto/delete/{id}', 'ProdutoController@deletarProduto');
+Route::get('/produto/comprar', 'ProdutoController@getComprar');
+Route::post('/produto/comprar', 'ProdutoController@postComprar');
 
-Route::get('/produtos/', 'HomeController@indexProduto');
+Route::post('/produto/criar', 'ProdutoController@criaProduto');
+Route::post('/produto/update/', 'ProdutoController@atualizaProduto');
+
+
+Route::get('/pedidos', 'PedidoController@listarPedidos');
